@@ -1,0 +1,15 @@
+#! /usr/bin/env python
+
+"""This is the nosetest module for the coordinate2region.py"""
+
+def main():
+    """Bar"""
+    print "Hi!"
+
+
+if __name__ == '__main__':
+    main()
+
+
+
+
